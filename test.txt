@@ -1,2 +1,3 @@
 Hello world
 Added one line
+added new line
